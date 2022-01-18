@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/demogi4523/dom-react-redux-project-lvl4/workflows/hexlet-check/badge.svg)](https://github.com/demogi4523/dom-react-redux-project-lvl4/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demogi4523/dom-react-redux-project-lvl4.git"
+  },
+  "author": "demogi4523 <demogi4523@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demogi4523/dom-react-redux-project-lvl4/issues"
+  },
+  "homepage": "https://github.com/demogi4523/dom-react-redux-project-lvl4#readme"
+}
